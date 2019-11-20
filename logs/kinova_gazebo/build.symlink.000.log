@@ -1,0 +1,3 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/kinova_gazebo.pc
+Symlinking /home/caster/ros_ws/caster/devel/share/kinova_gazebo/cmake/kinova_gazeboConfig.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/kinova_gazebo/cmake/kinova_gazeboConfig-version.cmake

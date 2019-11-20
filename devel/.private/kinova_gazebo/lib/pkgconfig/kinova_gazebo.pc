@@ -1,0 +1,8 @@
+prefix=/home/caster/ros_ws/caster/devel/.private/kinova_gazebo
+
+Name: kinova_gazebo
+Description: Description of kinova_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/caster/ros_ws/caster/devel/.private/kinova_gazebo/lib 
+Requires: 

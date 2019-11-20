@@ -1,0 +1,8 @@
+prefix=/home/caster/ros_ws/caster/devel/.private/jy901_driver
+
+Name: jy901_driver
+Description: Description of jy901_driver
+Version: 1.1.0
+Cflags: -I/home/caster/ros_ws/caster/src/jy901_driver/src
+Libs: -L/home/caster/ros_ws/caster/devel/.private/jy901_driver/lib 
+Requires: serial roscpp sensor_msgs tf message_runtime

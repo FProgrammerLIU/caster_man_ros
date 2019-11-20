@@ -1,0 +1,4 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/libm1n6s300_mico_arm_moveit_ikfast_plugin.so
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/m1n6s300_ikfast.pc
+Symlinking /home/caster/ros_ws/caster/devel/share/m1n6s300_ikfast/cmake/m1n6s300_ikfastConfig-version.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/m1n6s300_ikfast/cmake/m1n6s300_ikfastConfig.cmake

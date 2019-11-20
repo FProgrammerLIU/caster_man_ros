@@ -1,0 +1,3 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/caster_man_viz.pc
+Symlinking /home/caster/ros_ws/caster/devel/share/caster_man_viz/cmake/caster_man_vizConfig-version.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/caster_man_viz/cmake/caster_man_vizConfig.cmake

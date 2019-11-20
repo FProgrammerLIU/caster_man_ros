@@ -1,0 +1,3 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/kinova_control.pc
+Symlinking /home/caster/ros_ws/caster/devel/share/kinova_control/cmake/kinova_controlConfig.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/kinova_control/cmake/kinova_controlConfig-version.cmake

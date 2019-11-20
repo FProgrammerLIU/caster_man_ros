@@ -1,0 +1,5 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/libaruco.so
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/aruco.pc
+Symlinking /home/caster/ros_ws/caster/devel/lib/aruco/optimalmarkers
+Symlinking /home/caster/ros_ws/caster/devel/share/aruco/cmake/arucoConfig-version.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/aruco/cmake/arucoConfig.cmake

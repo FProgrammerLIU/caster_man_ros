@@ -1,0 +1,2 @@
+set(caster_app_MESSAGE_FILES "msg/DockAction.msg;msg/DockActionGoal.msg;msg/DockActionResult.msg;msg/DockActionFeedback.msg;msg/DockGoal.msg;msg/DockResult.msg;msg/DockFeedback.msg;msg/MovetoGoalAction.msg;msg/MovetoGoalActionGoal.msg;msg/MovetoGoalActionResult.msg;msg/MovetoGoalActionFeedback.msg;msg/MovetoGoalGoal.msg;msg/MovetoGoalResult.msg;msg/MovetoGoalFeedback.msg")
+set(caster_app_SERVICE_FILES "")

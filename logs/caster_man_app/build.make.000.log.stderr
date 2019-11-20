@@ -1,0 +1,7 @@
+[01m[K/home/caster/ros_ws/caster/src/caster_man_ros/caster_man_app/src/caster_man_app_node.cpp:25:10:[m[K [01;31m[Kfatal error: [m[Kcaster_man_app/PickGift.h: No such file or directory
+ #include [01;31m[K<caster_man_app/PickGift.h>[m[K
+          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/caster_man_app_node.dir/src/caster_man_app_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/caster_man_app_node.dir/all] Error 2
+make: *** [all] Error 2

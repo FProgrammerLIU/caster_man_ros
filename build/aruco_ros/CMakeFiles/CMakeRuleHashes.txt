@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+306b888cba41218137168131f50c232c /home/caster/ros_ws/caster/devel/.private/aruco_ros/include/aruco_ros/ArucoThresholdConfig.h
+03053978bf7db384d9dd430341d9816c CMakeFiles/aruco_ros_gencfg
+5a003afd9f085b3f3663856e4b238b68 CMakeFiles/clean_test_results

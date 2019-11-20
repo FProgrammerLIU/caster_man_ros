@@ -1,0 +1,17 @@
+[35m[1mScanning dependencies of target caster_man_app_node[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 18%] Built target marker_detect_node
+[ 18%] Built target _caster_man_app_generate_messages_check_deps_PickGift
+[ 27%] [32mBuilding CXX object CMakeFiles/caster_man_app_node.dir/src/caster_man_app_node.cpp.o[0m
+[ 27%] Built target std_msgs_generate_messages_py
+[ 27%] Built target std_msgs_generate_messages_eus
+[ 27%] Built target std_msgs_generate_messages_nodejs
+[ 27%] Built target std_msgs_generate_messages_lisp
+[ 36%] Built target caster_man_app_generate_messages_cpp
+[ 54%] Built target caster_man_app_generate_messages_eus
+[ 63%] Built target caster_man_app_generate_messages_nodejs
+[ 81%] Built target caster_man_app_generate_messages_py
+[ 90%] Built target caster_man_app_generate_messages_lisp
+[ 90%] Built target caster_man_app_generate_messages
+[100%] [32m[1mLinking CXX executable /home/caster/ros_ws/caster/devel/.private/caster_man_app/lib/caster_man_app/caster_man_app_node[0m
+[100%] Built target caster_man_app_node

@@ -1,0 +1,5 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/libkinect2_bridge_nodelet.so
+Symlinking /home/caster/ros_ws/caster/devel/lib/kinect2_bridge/kinect2_bridge
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/kinect2_bridge.pc
+Symlinking /home/caster/ros_ws/caster/devel/share/kinect2_bridge/cmake/kinect2_bridgeConfig-version.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/kinect2_bridge/cmake/kinect2_bridgeConfig.cmake

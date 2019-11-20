@@ -1,0 +1,8 @@
+prefix=/home/caster/ros_ws/caster/install
+
+Name: dauxi_ks106
+Description: Description of dauxi_ks106
+Version: 1.1.0
+Cflags: 
+Libs: -L/home/caster/ros_ws/caster/install/lib 
+Requires: 

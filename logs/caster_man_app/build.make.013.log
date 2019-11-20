@@ -1,0 +1,14 @@
+[  0%] Built target _caster_man_app_generate_messages_check_deps_PickGift
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 18%] Built target marker_detect_node
+[ 36%] Built target caster_man_app_node
+[ 36%] Built target std_msgs_generate_messages_eus
+[ 36%] Built target std_msgs_generate_messages_py
+[ 36%] Built target std_msgs_generate_messages_lisp
+[ 36%] Built target std_msgs_generate_messages_nodejs
+[ 54%] Built target caster_man_app_generate_messages_eus
+[ 63%] Built target caster_man_app_generate_messages_cpp
+[ 81%] Built target caster_man_app_generate_messages_py
+[ 90%] Built target caster_man_app_generate_messages_lisp
+[100%] Built target caster_man_app_generate_messages_nodejs
+[100%] Built target caster_man_app_generate_messages

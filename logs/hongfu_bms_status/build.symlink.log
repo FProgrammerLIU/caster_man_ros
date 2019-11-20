@@ -1,0 +1,4 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/hongfu_bms_status/hongfu_bms_status_node
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/hongfu_bms_status.pc
+Symlinking /home/caster/ros_ws/caster/devel/share/hongfu_bms_status/cmake/hongfu_bms_statusConfig.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/hongfu_bms_status/cmake/hongfu_bms_statusConfig-version.cmake

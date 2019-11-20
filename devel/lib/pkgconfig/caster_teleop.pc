@@ -1,0 +1,8 @@
+prefix=/home/caster/ros_ws/caster/devel/.private/caster_teleop
+
+Name: caster_teleop
+Description: Description of caster_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/caster/ros_ws/caster/devel/.private/caster_teleop/lib 
+Requires: 

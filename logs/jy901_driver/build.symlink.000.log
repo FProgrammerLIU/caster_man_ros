@@ -1,0 +1,4 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/jy901_driver/jy901_driver_node
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/jy901_driver.pc
+Symlinking /home/caster/ros_ws/caster/devel/share/jy901_driver/cmake/jy901_driverConfig.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/jy901_driver/cmake/jy901_driverConfig-version.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/libj2s6s300_arm_moveit_ikfast_plugin.so
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/j2s6s300_ikfast.pc
+Symlinking /home/caster/ros_ws/caster/devel/share/j2s6s300_ikfast/cmake/j2s6s300_ikfastConfig.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/j2s6s300_ikfast/cmake/j2s6s300_ikfastConfig-version.cmake

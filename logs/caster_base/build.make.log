@@ -1,0 +1,66 @@
+[35m[1mScanning dependencies of target _caster_base_generate_messages_check_deps_SetDigitalOutput[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target _caster_base_generate_messages_check_deps_SetDigitalOutput
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target controller_manager_msgs_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target controller_manager_msgs_generate_messages_py
+[35m[1mScanning dependencies of target controller_manager_msgs_generate_messages_lisp[0m
+[  0%] Built target controller_manager_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target caster_base_generate_messages_py[0m
+[35m[1mScanning dependencies of target controller_manager_msgs_generate_messages_eus[0m
+[ 10%] [34m[1mGenerating Python code from SRV caster_base/SetDigitalOutput[0m
+[ 10%] Built target controller_manager_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[ 10%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target controller_manager_msgs_generate_messages_cpp[0m
+[ 10%] Built target controller_manager_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target controller_manager_msgs_generate_messages_nodejs[0m
+[ 10%] Built target controller_manager_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target caster_base_generate_messages_cpp[0m
+[ 20%] [34m[1mGenerating C++ code from caster_base/SetDigitalOutput.srv[0m
+[ 30%] [34m[1mGenerating Python srv __init__.py for caster_base[0m
+[ 30%] Built target caster_base_generate_messages_py
+[35m[1mScanning dependencies of target caster_base_generate_messages_eus[0m
+[ 40%] [34m[1mGenerating EusLisp code from caster_base/SetDigitalOutput.srv[0m
+[ 50%] [34m[1mGenerating EusLisp manifest code for caster_base[0m
+[ 50%] Built target caster_base_generate_messages_cpp
+[35m[1mScanning dependencies of target caster_base_generate_messages_nodejs[0m
+[ 60%] [34m[1mGenerating Javascript code from caster_base/SetDigitalOutput.srv[0m
+[ 60%] Built target caster_base_generate_messages_nodejs
+[35m[1mScanning dependencies of target caster_base_generate_messages_lisp[0m
+[ 70%] [34m[1mGenerating Lisp code from caster_base/SetDigitalOutput.srv[0m
+[ 70%] Built target caster_base_generate_messages_lisp
+[ 70%] Built target caster_base_generate_messages_eus
+[35m[1mScanning dependencies of target caster_base_node[0m
+[35m[1mScanning dependencies of target caster_base_generate_messages[0m
+[ 70%] Built target caster_base_generate_messages
+[ 80%] [32mBuilding CXX object CMakeFiles/caster_base_node.dir/src/caster_base_node.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/caster_base_node.dir/src/caster_hardware.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/caster/ros_ws/caster/devel/.private/caster_base/lib/caster_base/caster_base_node[0m
+[100%] Built target caster_base_node

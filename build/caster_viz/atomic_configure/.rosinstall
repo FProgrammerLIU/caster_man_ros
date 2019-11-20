@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/caster/ros_ws/caster/devel/.private/caster_viz/setup.sh

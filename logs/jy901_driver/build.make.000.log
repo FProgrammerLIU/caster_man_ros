@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target jy901_driver_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/jy901_driver_node.dir/src/jy901_driver_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/caster/ros_ws/caster/devel/.private/jy901_driver/lib/jy901_driver/jy901_driver_node[0m
+[100%] Built target jy901_driver_node

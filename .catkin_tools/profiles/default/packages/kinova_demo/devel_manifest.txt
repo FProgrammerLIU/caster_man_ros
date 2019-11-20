@@ -1,0 +1,6 @@
+kinova-ros/kinova_demo
+/home/caster/ros_ws/caster/devel/.private/kinova_demo/cmake.lock /home/caster/ros_ws/caster/devel/./cmake.lock
+/home/caster/ros_ws/caster/devel/.private/kinova_demo/lib/pkgconfig/kinova_demo.pc /home/caster/ros_ws/caster/devel/lib/pkgconfig/kinova_demo.pc
+/home/caster/ros_ws/caster/devel/.private/kinova_demo/lib/python2.7/dist-packages/kinova_demo/__init__.py /home/caster/ros_ws/caster/devel/lib/python2.7/dist-packages/kinova_demo/__init__.py
+/home/caster/ros_ws/caster/devel/.private/kinova_demo/share/kinova_demo/cmake/kinova_demoConfig-version.cmake /home/caster/ros_ws/caster/devel/share/kinova_demo/cmake/kinova_demoConfig-version.cmake
+/home/caster/ros_ws/caster/devel/.private/kinova_demo/share/kinova_demo/cmake/kinova_demoConfig.cmake /home/caster/ros_ws/caster/devel/share/kinova_demo/cmake/kinova_demoConfig.cmake

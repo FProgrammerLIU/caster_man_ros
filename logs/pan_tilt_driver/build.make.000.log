@@ -1,0 +1,18 @@
+[35m[1mScanning dependencies of target pan_tilt_msg_generate_messages_cpp[0m
+[  0%] Built target pan_tilt_msg_generate_messages_cpp
+[35m[1mScanning dependencies of target test2[0m
+[  8%] [32mBuilding CXX object CMakeFiles/test2.dir/src/test.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/test2.dir/src/PanTiltDriver.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/test2.dir/src/QThread.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/test2.dir/src/QSerialPort.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/test2.dir/src/QSerialFrame.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable /home/caster/ros_ws/caster/devel/.private/pan_tilt_driver/lib/pan_tilt_driver/test2[0m
+[ 50%] Built target test2
+[35m[1mScanning dependencies of target PanTiltDriverNode[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/PanTiltDriverNode.dir/src/PanTiltDriverNode.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/PanTiltDriverNode.dir/src/PanTiltDriver.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/PanTiltDriverNode.dir/src/QThread.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/PanTiltDriverNode.dir/src/QSerialPort.cpp.o[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/PanTiltDriverNode.dir/src/QSerialFrame.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/caster/ros_ws/caster/devel/.private/pan_tilt_driver/lib/pan_tilt_driver/PanTiltDriverNode[0m
+[100%] Built target PanTiltDriverNode

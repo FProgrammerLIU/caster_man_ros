@@ -1,0 +1,8 @@
+prefix=/home/caster/ros_ws/caster/install
+
+Name: kinect2_bridge
+Description: Description of kinect2_bridge
+Version: 0.0.1
+Cflags: -I/home/caster/ros_ws/caster/install/include
+Libs: -L/home/caster/ros_ws/caster/install/lib 
+Requires: kinect2_registration

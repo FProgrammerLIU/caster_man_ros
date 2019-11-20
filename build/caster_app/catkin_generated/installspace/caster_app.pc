@@ -1,0 +1,8 @@
+prefix=/home/caster/ros_ws/caster/install
+
+Name: caster_app
+Description: Description of caster_app
+Version: 1.1.0
+Cflags: -I/home/caster/ros_ws/caster/install/include
+Libs: -L/home/caster/ros_ws/caster/install/lib 
+Requires: 

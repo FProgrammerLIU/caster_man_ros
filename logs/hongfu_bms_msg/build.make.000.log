@@ -1,0 +1,31 @@
+[35m[1mScanning dependencies of target _hongfu_bms_msg_generate_messages_check_deps_HongfuStatus[0m
+[  0%] Built target _hongfu_bms_msg_generate_messages_check_deps_HongfuStatus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target hongfu_bms_msg_generate_messages_eus[0m
+[ 14%] [34m[1mGenerating EusLisp code from hongfu_bms_msg/HongfuStatus.msg[0m
+[ 28%] [34m[1mGenerating EusLisp manifest code for hongfu_bms_msg[0m
+[ 28%] Built target hongfu_bms_msg_generate_messages_eus
+[35m[1mScanning dependencies of target hongfu_bms_msg_generate_messages_nodejs[0m
+[ 42%] [34m[1mGenerating Javascript code from hongfu_bms_msg/HongfuStatus.msg[0m
+[ 42%] Built target hongfu_bms_msg_generate_messages_nodejs
+[35m[1mScanning dependencies of target hongfu_bms_msg_generate_messages_lisp[0m
+[ 57%] [34m[1mGenerating Lisp code from hongfu_bms_msg/HongfuStatus.msg[0m
+[ 57%] Built target hongfu_bms_msg_generate_messages_lisp
+[35m[1mScanning dependencies of target hongfu_bms_msg_generate_messages_py[0m
+[ 71%] [34m[1mGenerating Python from MSG hongfu_bms_msg/HongfuStatus[0m
+[ 85%] [34m[1mGenerating Python msg __init__.py for hongfu_bms_msg[0m
+[ 85%] Built target hongfu_bms_msg_generate_messages_py
+[35m[1mScanning dependencies of target hongfu_bms_msg_generate_messages_cpp[0m
+[100%] [34m[1mGenerating C++ code from hongfu_bms_msg/HongfuStatus.msg[0m
+[100%] Built target hongfu_bms_msg_generate_messages_cpp
+[35m[1mScanning dependencies of target hongfu_bms_msg_generate_messages[0m
+[100%] Built target hongfu_bms_msg_generate_messages

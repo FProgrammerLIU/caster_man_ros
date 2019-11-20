@@ -1,0 +1,6 @@
+devel_space: /home/caster/ros_ws/caster/devel
+install: false
+install_space: /home/caster/ros_ws/caster/install
+profile: default
+source_space: /home/caster/ros_ws/caster/src
+workspace: /home/caster/ros_ws/caster

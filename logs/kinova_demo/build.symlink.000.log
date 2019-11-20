@@ -1,0 +1,4 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/kinova_demo.pc
+Symlinking /home/caster/ros_ws/caster/devel/lib/python2.7/dist-packages/kinova_demo/__init__.py
+Symlinking /home/caster/ros_ws/caster/devel/share/kinova_demo/cmake/kinova_demoConfig-version.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/kinova_demo/cmake/kinova_demoConfig.cmake

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/caster/ros_ws/caster/devel/.private/hongfu_bms_status/setup.sh

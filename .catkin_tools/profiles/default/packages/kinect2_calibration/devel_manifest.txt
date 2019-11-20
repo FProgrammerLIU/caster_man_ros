@@ -1,0 +1,6 @@
+iai_kinect2/kinect2_calibration
+/home/caster/ros_ws/caster/devel/.private/kinect2_calibration/cmake.lock /home/caster/ros_ws/caster/devel/./cmake.lock
+/home/caster/ros_ws/caster/devel/.private/kinect2_calibration/lib/kinect2_calibration/kinect2_calibration /home/caster/ros_ws/caster/devel/lib/kinect2_calibration/kinect2_calibration
+/home/caster/ros_ws/caster/devel/.private/kinect2_calibration/lib/pkgconfig/kinect2_calibration.pc /home/caster/ros_ws/caster/devel/lib/pkgconfig/kinect2_calibration.pc
+/home/caster/ros_ws/caster/devel/.private/kinect2_calibration/share/kinect2_calibration/cmake/kinect2_calibrationConfig.cmake /home/caster/ros_ws/caster/devel/share/kinect2_calibration/cmake/kinect2_calibrationConfig.cmake
+/home/caster/ros_ws/caster/devel/.private/kinect2_calibration/share/kinect2_calibration/cmake/kinect2_calibrationConfig-version.cmake /home/caster/ros_ws/caster/devel/share/kinect2_calibration/cmake/kinect2_calibrationConfig-version.cmake

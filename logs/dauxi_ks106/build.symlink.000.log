@@ -1,0 +1,4 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/dauxi_ks106.pc
+Symlinking /home/caster/ros_ws/caster/devel/lib/dauxi_ks106/dauxi_ks106_node
+Symlinking /home/caster/ros_ws/caster/devel/share/dauxi_ks106/cmake/dauxi_ks106Config.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/dauxi_ks106/cmake/dauxi_ks106Config-version.cmake

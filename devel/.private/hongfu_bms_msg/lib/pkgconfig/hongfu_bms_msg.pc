@@ -1,0 +1,8 @@
+prefix=/home/caster/ros_ws/caster/devel/.private/hongfu_bms_msg
+
+Name: hongfu_bms_msg
+Description: Description of hongfu_bms_msg
+Version: 1.1.0
+Cflags: -I/home/caster/ros_ws/caster/devel/.private/hongfu_bms_msg/include
+Libs: -L/home/caster/ros_ws/caster/devel/.private/hongfu_bms_msg/lib 
+Requires: 

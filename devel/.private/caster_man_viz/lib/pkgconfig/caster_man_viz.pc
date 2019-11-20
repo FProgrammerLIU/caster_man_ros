@@ -1,0 +1,8 @@
+prefix=/home/caster/ros_ws/caster/devel/.private/caster_man_viz
+
+Name: caster_man_viz
+Description: Description of caster_man_viz
+Version: 1.1.0
+Cflags: 
+Libs: -L/home/caster/ros_ws/caster/devel/.private/caster_man_viz/lib 
+Requires: 

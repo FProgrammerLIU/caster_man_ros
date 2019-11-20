@@ -1,0 +1,5 @@
+Linked: (/home/caster/ros_ws/caster/devel/.private/aruco/lib/libaruco.so, /home/caster/ros_ws/caster/devel/lib/libaruco.so)
+Linked: (/home/caster/ros_ws/caster/devel/.private/aruco/lib/pkgconfig/aruco.pc, /home/caster/ros_ws/caster/devel/lib/pkgconfig/aruco.pc)
+Linked: (/home/caster/ros_ws/caster/devel/.private/aruco/lib/aruco/optimalmarkers, /home/caster/ros_ws/caster/devel/lib/aruco/optimalmarkers)
+Linked: (/home/caster/ros_ws/caster/devel/.private/aruco/share/aruco/cmake/arucoConfig-version.cmake, /home/caster/ros_ws/caster/devel/share/aruco/cmake/arucoConfig-version.cmake)
+Linked: (/home/caster/ros_ws/caster/devel/.private/aruco/share/aruco/cmake/arucoConfig.cmake, /home/caster/ros_ws/caster/devel/share/aruco/cmake/arucoConfig.cmake)

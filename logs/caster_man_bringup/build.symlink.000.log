@@ -1,0 +1,3 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/caster_man_bringup.pc
+Symlinking /home/caster/ros_ws/caster/devel/share/caster_man_bringup/cmake/caster_man_bringupConfig-version.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/caster_man_bringup/cmake/caster_man_bringupConfig.cmake

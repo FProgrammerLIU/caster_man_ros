@@ -1,0 +1,3 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/caster_teleop.pc
+Symlinking /home/caster/ros_ws/caster/devel/share/caster_teleop/cmake/caster_teleopConfig.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/caster_teleop/cmake/caster_teleopConfig-version.cmake

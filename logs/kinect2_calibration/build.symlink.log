@@ -1,0 +1,4 @@
+Symlinking /home/caster/ros_ws/caster/devel/lib/kinect2_calibration/kinect2_calibration
+Symlinking /home/caster/ros_ws/caster/devel/lib/pkgconfig/kinect2_calibration.pc
+Symlinking /home/caster/ros_ws/caster/devel/share/kinect2_calibration/cmake/kinect2_calibrationConfig.cmake
+Symlinking /home/caster/ros_ws/caster/devel/share/kinect2_calibration/cmake/kinect2_calibrationConfig-version.cmake

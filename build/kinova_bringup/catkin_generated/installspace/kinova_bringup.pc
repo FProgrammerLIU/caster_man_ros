@@ -1,0 +1,8 @@
+prefix=/home/caster/ros_ws/caster/install
+
+Name: kinova_bringup
+Description: Description of kinova_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/caster/ros_ws/caster/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/caster/ros_ws/caster/install
+
+Name: caster_man_moveit_config
+Description: Description of caster_man_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/caster/ros_ws/caster/install/lib 
+Requires: 
